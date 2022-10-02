@@ -2,5 +2,24 @@
     <string name="app_name">AndroidAssignments</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\’m a button</string>
+    <string name="login_var">login</string>
+    <string name="password_var">password</string>
+    <string name="switch_var">What does this do?</string>
+    <string name="loginHint_var">login name</string>
+    <string name="radio_var">RadioButton</string>
+    <string name="check_var">CheckBox</string>
+    <string name="login_button">Login</string>
+    <string name="finish">Do you want to finish the activity?</string>
+    <string name="Yes">OK</string>
+    <string name="No">Cancel</string>
+    <string name="ButtonOff">Switch is off</string>
+    <string name="ButtonOn">Switch is on</string>
+    <string name="Share">my information to share</string>
+    <string name="ValidEmail">Please enter a valid email address</string>
+    <string name="ValidPass">Please enter a password</string>
 
-    </resources>
+
+
+
+
+</resources>
